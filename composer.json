@@ -1,0 +1,18 @@
+{
+    "name": "umangp/inspire",
+    "description": "gives quotes",
+    "autoload": {
+        "psr-4": {
+            "Umangp\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wmt-umangp",
+            "email": "umangp@webmobtech.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
